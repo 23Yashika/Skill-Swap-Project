@@ -1,0 +1,17 @@
+src/
+├── components/ # Shared UI components
+│ ├── Navbar.jsx
+│ ├── ProfileCard.jsx
+│ ├── Pagination.jsx
+│ ├── SkillTag.jsx
+│
+├── pages/ # Each screen
+│ ├── Home.jsx
+│ ├── Login.jsx
+│ ├── UserProfile.jsx
+│ ├── PublicProfile.jsx
+│ ├── RequestForm.jsx
+│ ├── SwapRequests.jsx
+│
+├── App.jsx # Routes
+├── index.js
