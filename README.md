@@ -1,3 +1,4 @@
+```
 src/
 │
 ├── components/              # Shared, reusable UI components
@@ -16,3 +17,4 @@ src/
 │
 ├── App.jsx                  # Root component managing routes
 ├── index.js                 # Application entry point
+```
